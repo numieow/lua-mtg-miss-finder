@@ -11,9 +11,9 @@ In the data/ repository, you will find 4 files : haves, havenots, wants and coll
 The collection files will contain the relevant cards you already own.
 The wants file will contain the entire decklist.
 
-The haves and havenots files will cintain the cards you have and have not, after the script has run.
+The haves and havenots files will contain the cards you have and have not, after the script has run.
 
-The correct format is as follows : 
+The correct format is as follows (it will also output like this) : 
 ```
 1 Ghave, Guru of Spores (2X2)
 1 Abrupt Decay
@@ -22,4 +22,4 @@ The correct format is as follows :
 ...
 ```
 
-You can now execute the main.lua script toget your lists ! 
+You can now execute the main.lua script to get your lists ! 
